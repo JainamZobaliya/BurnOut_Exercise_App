@@ -1,6 +1,12 @@
 # burn_out
 
 A new Flutter application.
+It is an Execrise app having features such as:
+1. Timer for exercise and relaxation,
+2. English and Hindi Songs, 
+3. Water Tracker,
+4. Dashboard showing all details,
+5. LogIn and Registration Page.
 
 ## Getting Started
 
